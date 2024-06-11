@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# Parcel cache and build output
+.parcel-cache/
+dist/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+
+# VSCode
+.vscode/
+.vscode/*
+
+# JetBrains IDEs
+.idea/
+.idea/*
+
+# Sublime Text
+*.sublime-workspace
+
+# Editor-specific files
+
+# Emacs
+*~
+# Vim
+*.swp
+.swp
+# Nano
+*.save
+# macOS Finder
+.Spotlight-V100
+.Trashes
+
+# Other
+.env
+*.local
